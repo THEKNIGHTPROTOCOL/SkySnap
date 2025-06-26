@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-> 🔗 **Coming Soon** (Deploy it on Vercel, GitHub Pages, or Netlify)
+> 🔗 **Coming Soon** 
 
 ---
 
