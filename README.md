@@ -42,33 +42,27 @@ Manage state using React Hooks
 
 Build modular and reusable components
 ---
-### 🧠 Future Enhancements
--🔔 Add location-based automatic weather fetch
+## 🧠 Future Enhancements
+🔔 Add location-based automatic weather fetch
 
--📅 Show weekly/daily forecasts
+📅 Show weekly/daily forecasts
 
--🌙 Dark mode toggle
+🌙 Dark mode toggle
 
--💬 Multi-language support
+💬 Multi-language support
 ---
-###🤝 Contributing
+## 🤝 Contributing
 Contributions, suggestions, and forks are welcome. Feel free to open issues or submit pull requests to enhance SkySnap.
-
+---
 📄 License
 MIT License
 © 2025 
-
+---
 📷 Preview (optional)
 (Add a screenshot or preview banner here if available)
 
 
 
----
-
-✅ Let me know if you want:
-- The **full React source code** for SkySnap
-- A **custom AI-generated banner**
-- **Deployment guide** for Vercel, Netlify, or GitHub Pages
 
 ---
 ## 🧩 Installation & Setup
