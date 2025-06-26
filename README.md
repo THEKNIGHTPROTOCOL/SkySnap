@@ -73,6 +73,35 @@ MIT License
 
 ---
 
+ | Path                 | Description                                  |
+| -------------------- | -------------------------------------------- |
+| `SkySnap/`           | Root project folder                          |
+| ├── `public/`        | Contains static files                        |
+| └── `index.html`     | Main HTML entry point                        |
+| ├── `src/`           | Source folder for React components           |
+| ├── `App.js`         | Main app logic and state handling            |
+| ├── `index.js`       | React DOM rendering                          |
+| └── `WeatherCard.js` | Displays the weather information card        |
+| `.gitignore`         | Files to ignore in Git (e.g. `node_modules`) |
+| `package.json`       | Project metadata and dependencies            |
+| `README.md`          | Project documentation                        |
+
+
+---
+
+| Item             | Details                                                                                         |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| **App Name**     | 🌤️ **SkySnap**                                                                                 |
+| **Tagline**      | *"Capture the sky. Get real-time weather, anywhere."*                                           |
+| **Description**  | A sleek, beginner-friendly React app that shows live weather data using the OpenWeatherMap API. |
+| **Tech Stack**   | React.js, JavaScript, HTML, CSS                                                                 |
+| **API Used**     | [OpenWeatherMap](https://openweathermap.org/api)                                                |
+| **How it Works** | Users type a city name → App fetches weather via API → WeatherCard displays it                  |
+
+
+---
+
+
 ## 🧩 Installation & Setup
 
 1. **Clone the repository**
