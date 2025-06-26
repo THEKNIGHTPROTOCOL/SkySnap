@@ -56,6 +56,7 @@ Build modular and reusable components
 --- 
 
 ## 🤝 Contributing
+
 Contributions, suggestions, and forks are welcome. Feel free to open issues or submit pull requests to enhance SkySnap.
 
 ---
