@@ -103,6 +103,20 @@ MIT License
 
 ---
 
+🧪 Weather Data Displayed
+
+
+
+| Parameter   | Shown on WeatherCard.js               |
+| ----------- | ------------------------------------- |
+| Location    | City and Country                      |
+| Condition   | Weather type (e.g., Cloudy, Sunny)    |
+| Description | Short detail (e.g., scattered clouds) |
+| Temperature | In °C                                 |
+| Humidity    | As a %                                |
+| Wind Speed  | In meters/second                      |
+
+---
 
 ## 🧩 Installation & Setup
 
