@@ -41,6 +41,7 @@ Use environment variables securely
 Manage state using React Hooks
 
 Build modular and reusable components
+
 ---
 
 ## 🧠 Future Enhancements
@@ -51,22 +52,26 @@ Build modular and reusable components
 🌙 Dark mode toggle
 
 💬 Multi-language support
+
 --- 
 
 ## 🤝 Contributing
 Contributions, suggestions, and forks are welcome. Feel free to open issues or submit pull requests to enhance SkySnap.
+
 ---
+
 📄 License
 MIT License
 © 2025 
----
-📷 Preview (optional)
-(Add a screenshot or preview banner here if available)
-
-
-
 
 ---
+📷 Preview (soon)
+
+
+
+
+---
+
 ## 🧩 Installation & Setup
 
 1. **Clone the repository**
