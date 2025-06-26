@@ -31,7 +31,7 @@
 
 ---
 
-💡 Why SkySnap?
+### 💡 Why SkySnap?
 SkySnap was created as a beginner-friendly React project for learning how to:
 
 Fetch and display data from APIs
@@ -41,17 +41,17 @@ Use environment variables securely
 Manage state using React Hooks
 
 Build modular and reusable components
+---
+### 🧠 Future Enhancements
+-🔔 Add location-based automatic weather fetch
 
-🧠 Future Enhancements
-🔔 Add location-based automatic weather fetch
+-📅 Show weekly/daily forecasts
 
-📅 Show weekly/daily forecasts
+-🌙 Dark mode toggle
 
-🌙 Dark mode toggle
-
-💬 Multi-language support
-
-🤝 Contributing
+-💬 Multi-language support
+---
+###🤝 Contributing
 Contributions, suggestions, and forks are welcome. Feel free to open issues or submit pull requests to enhance SkySnap.
 
 📄 License
