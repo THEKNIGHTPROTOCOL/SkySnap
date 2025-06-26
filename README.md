@@ -42,6 +42,7 @@ Manage state using React Hooks
 
 Build modular and reusable components
 ---
+
 ## 🧠 Future Enhancements
 🔔 Add location-based automatic weather fetch
 
@@ -50,7 +51,8 @@ Build modular and reusable components
 🌙 Dark mode toggle
 
 💬 Multi-language support
----
+--- 
+
 ## 🤝 Contributing
 Contributions, suggestions, and forks are welcome. Feel free to open issues or submit pull requests to enhance SkySnap.
 ---
